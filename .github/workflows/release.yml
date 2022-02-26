@@ -1,0 +1,24 @@
+name: pack-release
+on: 
+  push:
+    tags:
+    - '*'
+
+jobs:
+  create-zip:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v2
+      - name: Archive Release
+        uses: thedoctor0/zip-release@master
+        with:
+          type: 'zip'
+          filename: 'pack.zip'
+          exclusions: '*.git* .editorconfig'
+      - name: Upload Release
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: "pack.zip"
+          token: ${{ secrets.GITHUB_TOKEN }}
