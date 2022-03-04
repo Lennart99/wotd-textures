@@ -11,14 +11,18 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v2
+      - name: Declare some variables
+        id: vars
+        shell: bash
+        run: echo "::set-output name=sha_short::$(git rev-parse --short HEAD)"
       - name: Archive Release
         uses: thedoctor0/zip-release@master
         with:
           type: 'zip'
-          filename: 'pack.zip'
+          filename: 'pack-${{ steps.vars.outputs.sha_short }}.zip'
           exclusions: '*.git* .editorconfig'
       - name: Upload Release
         uses: ncipollo/release-action@v1
         with:
-          artifacts: "pack.zip"
+          artifacts: "pack-${{ steps.vars.outputs.sha_short }}.zip"
           token: ${{ secrets.GITHUB_TOKEN }}
