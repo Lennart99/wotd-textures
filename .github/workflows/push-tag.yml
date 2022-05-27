@@ -1,7 +1,8 @@
-name: pack-release
-on:
-  release:
-    types: [published]
+name: pack-tag-push
+on: 
+  push:
+    tags:
+    - '*'
 
 jobs:
   create-zip:
@@ -20,9 +21,8 @@ jobs:
           type: 'zip'
           filename: 'pack-${{ steps.vars.outputs.sha_short }}.zip'
           exclusions: '*.git* .editorconfig'
-      - name: Release with Notes
-        uses: softprops/action-gh-release@v1
+      - name: Upload Release
+        uses: ncipollo/release-action@v1
         with:
-          files: "pack-${{ steps.vars.outputs.sha_short }}.zip"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          artifacts: "pack-${{ steps.vars.outputs.sha_short }}.zip"
+          token: ${{ secrets.GITHUB_TOKEN }}
