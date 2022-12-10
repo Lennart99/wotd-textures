@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": [
+      {"model": "minecraft:block/birch_leaves1","weight": 3},
+      {"model": "minecraft:block/birch_leaves2","weight": 3},
+      {"model": "minecraft:block/birch_leaves3","weight": 2}
+    ]
+  }
+}
