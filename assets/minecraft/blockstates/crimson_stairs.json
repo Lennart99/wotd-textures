@@ -1,0 +1,3759 @@
+{
+  "variants": {
+    "facing=east,half=bottom,shape=inner_left": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 1
+      }
+    ],
+    "facing=east,half=bottom,shape=inner_right": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_inner",
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_inner",
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_inner",
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_inner",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_inner",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_inner",
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_inner",
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_inner",
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_inner",
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_inner",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_inner",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_inner",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_inner",
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_inner",
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_inner",
+        "weight": 1
+      }
+    ],
+    "facing=east,half=bottom,shape=outer_left": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 1
+      }
+    ],
+    "facing=east,half=bottom,shape=outer_right": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_outer",
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_outer",
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_outer",
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_outer",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_outer",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_outer",
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_outer",
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_outer",
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_outer",
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_outer",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_outer",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_outer",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_outer",
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_outer",
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_outer",
+        "weight": 1
+      }
+    ],
+    "facing=east,half=bottom,shape=straight": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs",
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs",
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs",
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs",
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs",
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs",
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs",
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs",
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs",
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs",
+        "weight": 1
+      }
+    ],
+    "facing=east,half=top,shape=inner_left": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 1
+      }
+    ],
+    "facing=east,half=top,shape=inner_right": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 1
+      }
+    ],
+    "facing=east,half=top,shape=outer_left": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 1
+      }
+    ],
+    "facing=east,half=top,shape=outer_right": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 1
+      }
+    ],
+    "facing=east,half=top,shape=straight": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs",
+        "uvlock": true,
+        "x": 180,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs",
+        "uvlock": true,
+        "x": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs",
+        "uvlock": true,
+        "x": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs",
+        "uvlock": true,
+        "x": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs",
+        "uvlock": true,
+        "x": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs",
+        "uvlock": true,
+        "x": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs",
+        "uvlock": true,
+        "x": 180,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs",
+        "uvlock": true,
+        "x": 180,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs",
+        "uvlock": true,
+        "x": 180,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs",
+        "uvlock": true,
+        "x": 180,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs",
+        "uvlock": true,
+        "x": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs",
+        "uvlock": true,
+        "x": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs",
+        "uvlock": true,
+        "x": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs",
+        "uvlock": true,
+        "x": 180,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs",
+        "uvlock": true,
+        "x": 180,
+        "weight": 1
+      }
+    ],
+    "facing=north,half=bottom,shape=inner_left": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 1
+      }
+    ],
+    "facing=north,half=bottom,shape=inner_right": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_inner",
+        "uvlock": true,
+        "y": 270,
+        "weight": 1
+      }
+    ],
+    "facing=north,half=bottom,shape=outer_left": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 1
+      }
+    ],
+    "facing=north,half=bottom,shape=outer_right": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_outer",
+        "uvlock": true,
+        "y": 270,
+        "weight": 1
+      }
+    ],
+    "facing=north,half=bottom,shape=straight": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs",
+        "uvlock": true,
+        "y": 270,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs",
+        "uvlock": true,
+        "y": 270,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs",
+        "uvlock": true,
+        "y": 270,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs",
+        "uvlock": true,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs",
+        "uvlock": true,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs",
+        "uvlock": true,
+        "y": 270,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs",
+        "uvlock": true,
+        "y": 270,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs",
+        "uvlock": true,
+        "y": 270,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs",
+        "uvlock": true,
+        "y": 270,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs",
+        "uvlock": true,
+        "y": 270,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs",
+        "uvlock": true,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs",
+        "uvlock": true,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs",
+        "uvlock": true,
+        "y": 270,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs",
+        "uvlock": true,
+        "y": 270,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs",
+        "uvlock": true,
+        "y": 270,
+        "weight": 1
+      }
+    ],
+    "facing=north,half=top,shape=inner_left": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 1
+      }
+    ],
+    "facing=north,half=top,shape=inner_right": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "weight": 1
+      }
+    ],
+    "facing=north,half=top,shape=outer_left": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 1
+      }
+    ],
+    "facing=north,half=top,shape=outer_right": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "weight": 1
+      }
+    ],
+    "facing=north,half=top,shape=straight": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 1
+      }
+    ],
+    "facing=south,half=bottom,shape=inner_left": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_inner",
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_inner",
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_inner",
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_inner",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_inner",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_inner",
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_inner",
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_inner",
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_inner",
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_inner",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_inner",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_inner",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_inner",
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_inner",
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_inner",
+        "weight": 1
+      }
+    ],
+    "facing=south,half=bottom,shape=inner_right": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 1
+      }
+    ],
+    "facing=south,half=bottom,shape=outer_left": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_outer",
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_outer",
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_outer",
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_outer",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_outer",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_outer",
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_outer",
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_outer",
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_outer",
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_outer",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_outer",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_outer",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_outer",
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_outer",
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_outer",
+        "weight": 1
+      }
+    ],
+    "facing=south,half=bottom,shape=outer_right": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 1
+      }
+    ],
+    "facing=south,half=bottom,shape=straight": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs",
+        "uvlock": true,
+        "y": 90,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs",
+        "uvlock": true,
+        "y": 90,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs",
+        "uvlock": true,
+        "y": 90,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs",
+        "uvlock": true,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs",
+        "uvlock": true,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs",
+        "uvlock": true,
+        "y": 90,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs",
+        "uvlock": true,
+        "y": 90,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs",
+        "uvlock": true,
+        "y": 90,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs",
+        "uvlock": true,
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs",
+        "uvlock": true,
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs",
+        "uvlock": true,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs",
+        "uvlock": true,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs",
+        "uvlock": true,
+        "y": 90,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs",
+        "uvlock": true,
+        "y": 90,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs",
+        "uvlock": true,
+        "y": 90,
+        "weight": 1
+      }
+    ],
+    "facing=south,half=top,shape=inner_left": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 1
+      }
+    ],
+    "facing=south,half=top,shape=inner_right": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 1
+      }
+    ],
+    "facing=south,half=top,shape=outer_left": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 1
+      }
+    ],
+    "facing=south,half=top,shape=outer_right": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 1
+      }
+    ],
+    "facing=south,half=top,shape=straight": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 90,
+        "weight": 1
+      }
+    ],
+    "facing=west,half=bottom,shape=inner_left": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_inner",
+        "uvlock": true,
+        "y": 90,
+        "weight": 1
+      }
+    ],
+    "facing=west,half=bottom,shape=inner_right": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_inner",
+        "uvlock": true,
+        "y": 180,
+        "weight": 1
+      }
+    ],
+    "facing=west,half=bottom,shape=outer_left": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_outer",
+        "uvlock": true,
+        "y": 90,
+        "weight": 1
+      }
+    ],
+    "facing=west,half=bottom,shape=outer_right": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_outer",
+        "uvlock": true,
+        "y": 180,
+        "weight": 1
+      }
+    ],
+    "facing=west,half=bottom,shape=straight": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs",
+        "uvlock": true,
+        "y": 180,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs",
+        "uvlock": true,
+        "y": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs",
+        "uvlock": true,
+        "y": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs",
+        "uvlock": true,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs",
+        "uvlock": true,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs",
+        "uvlock": true,
+        "y": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs",
+        "uvlock": true,
+        "y": 180,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs",
+        "uvlock": true,
+        "y": 180,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs",
+        "uvlock": true,
+        "y": 180,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs",
+        "uvlock": true,
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs",
+        "uvlock": true,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs",
+        "uvlock": true,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs",
+        "uvlock": true,
+        "y": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs",
+        "uvlock": true,
+        "y": 180,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs",
+        "uvlock": true,
+        "y": 180,
+        "weight": 1
+      }
+    ],
+    "facing=west,half=top,shape=inner_left": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 1
+      }
+    ],
+    "facing=west,half=top,shape=inner_right": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_inner",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 1
+      }
+    ],
+    "facing=west,half=top,shape=outer_left": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 1
+      }
+    ],
+    "facing=west,half=top,shape=outer_right": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs_outer",
+        "uvlock": true,
+        "x": 180,
+        "y": 270,
+        "weight": 1
+      }
+    ],
+    "facing=west,half=top,shape=straight": [
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_01_intact_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_02_lighter_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_03_darker_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_04_faded_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_05_discolored_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_06_cracked_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_07_mossy_cracks_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_08_chipped_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_09_mossy_damage_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_10_severe_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_11_single_light_b_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_12_single_dark_b_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_14_moss_scattered_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/crimson_15_moss_weathered_stairs",
+        "uvlock": true,
+        "x": 180,
+        "y": 180,
+        "weight": 1
+      }
+    ]
+  }
+}

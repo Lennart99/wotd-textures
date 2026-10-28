@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "wotd:block/abandoned_masonry/warped_12_single_dark_b",
+    "top": "wotd:block/abandoned_masonry/warped_12_single_dark_b",
+    "side": "wotd:block/abandoned_masonry/warped_12_single_dark_b"
+  }
+}

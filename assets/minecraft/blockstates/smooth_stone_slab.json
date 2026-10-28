@@ -1,0 +1,190 @@
+{
+  "variants": {
+    "type=bottom": [
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_01_intact_bottom",
+        "weight": 22
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_02_light_patch_bottom",
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_03_dark_patch_bottom",
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_04_weathered_bottom",
+        "weight": 10
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_05_fine_crack_bottom",
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_06_moss_specks_bottom",
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_07_cracked_bottom",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_08_mossy_crack_bottom",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_09_chipped_bottom",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_10_heavy_moss_damage_bottom",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_11_soft_light_bottom",
+        "weight": 9
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_12_soft_dark_bottom",
+        "weight": 9
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_13_dusty_bottom",
+        "weight": 7
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_14_damp_bottom",
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_15_micro_wear_bottom",
+        "weight": 4
+      }
+    ],
+    "type=top": [
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_01_intact_top",
+        "weight": 22
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_02_light_patch_top",
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_03_dark_patch_top",
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_04_weathered_top",
+        "weight": 10
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_05_fine_crack_top",
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_06_moss_specks_top",
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_07_cracked_top",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_08_mossy_crack_top",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_09_chipped_top",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_10_heavy_moss_damage_top",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_11_soft_light_top",
+        "weight": 9
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_12_soft_dark_top",
+        "weight": 9
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_13_dusty_top",
+        "weight": 7
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_14_damp_top",
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_15_micro_wear_top",
+        "weight": 4
+      }
+    ],
+    "type=double": [
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_01_intact_double",
+        "weight": 22
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_02_light_patch_double",
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_03_dark_patch_double",
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_04_weathered_double",
+        "weight": 10
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_05_fine_crack_double",
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_06_moss_specks_double",
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_07_cracked_double",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_08_mossy_crack_double",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_09_chipped_double",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_10_heavy_moss_damage_double",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_11_soft_light_double",
+        "weight": 9
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_12_soft_dark_double",
+        "weight": 9
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_13_dusty_double",
+        "weight": 7
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_14_damp_double",
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_smooth_stone/smooth_stone_15_micro_wear_double",
+        "weight": 4
+      }
+    ]
+  }
+}

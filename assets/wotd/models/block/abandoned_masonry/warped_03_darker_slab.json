@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "wotd:block/abandoned_masonry/warped_03_darker",
+    "top": "wotd:block/abandoned_masonry/warped_03_darker",
+    "side": "wotd:block/abandoned_masonry/warped_03_darker"
+  }
+}

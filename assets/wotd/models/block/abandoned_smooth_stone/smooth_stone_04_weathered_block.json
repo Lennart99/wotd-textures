@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "wotd:block/abandoned_smooth_stone/smooth_stone_04_weathered"
+  }
+}

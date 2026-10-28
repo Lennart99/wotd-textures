@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "wotd:block/abandoned_smooth_stone/smooth_stone_08_mossy_crack",
+    "top": "wotd:block/abandoned_smooth_stone/smooth_stone_08_mossy_crack",
+    "side": "wotd:block/abandoned_smooth_stone/smooth_stone_08_mossy_crack_slab_side"
+  }
+}

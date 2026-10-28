@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "wotd:block/abandoned_masonry/warped_14_moss_scattered",
+    "top": "wotd:block/abandoned_masonry/warped_14_moss_scattered",
+    "side": "wotd:block/abandoned_masonry/warped_14_moss_scattered"
+  }
+}

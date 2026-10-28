@@ -1,0 +1,190 @@
+{
+  "variants": {
+    "type=bottom": [
+      {
+        "model": "wotd:block/abandoned_masonry/warped_01_intact_slab",
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_02_lighter_slab",
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_03_darker_slab",
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_04_faded_slab",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_05_discolored_slab",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_06_cracked_slab",
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_07_mossy_cracks_slab",
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_08_chipped_slab",
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_09_mossy_damage_slab",
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_10_severe_slab",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_11_single_light_b_slab",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_12_single_dark_b_slab",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_13_mixed_bricks_slab",
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_14_moss_scattered_slab",
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_15_moss_weathered_slab",
+        "weight": 1
+      }
+    ],
+    "type=double": [
+      {
+        "model": "wotd:block/abandoned_masonry/warped_01_intact",
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_02_lighter",
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_03_darker",
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_04_faded",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_05_discolored",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_06_cracked",
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_07_mossy_cracks",
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_08_chipped",
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_09_mossy_damage",
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_10_severe",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_11_single_light_b",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_12_single_dark_b",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_13_mixed_bricks",
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_14_moss_scattered",
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_15_moss_weathered",
+        "weight": 1
+      }
+    ],
+    "type=top": [
+      {
+        "model": "wotd:block/abandoned_masonry/warped_01_intact_slab_top",
+        "weight": 16
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_02_lighter_slab_top",
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_03_darker_slab_top",
+        "weight": 12
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_04_faded_slab_top",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_05_discolored_slab_top",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_06_cracked_slab_top",
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_07_mossy_cracks_slab_top",
+        "weight": 5
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_08_chipped_slab_top",
+        "weight": 4
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_09_mossy_damage_slab_top",
+        "weight": 2
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_10_severe_slab_top",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_11_single_light_b_slab_top",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_12_single_dark_b_slab_top",
+        "weight": 8
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_13_mixed_bricks_slab_top",
+        "weight": 6
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_14_moss_scattered_slab_top",
+        "weight": 3
+      },
+      {
+        "model": "wotd:block/abandoned_masonry/warped_15_moss_weathered_slab_top",
+        "weight": 1
+      }
+    ]
+  }
+}

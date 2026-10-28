@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "wotd:block/abandoned_masonry/warped_05_discolored",
+    "top": "wotd:block/abandoned_masonry/warped_05_discolored",
+    "side": "wotd:block/abandoned_masonry/warped_05_discolored"
+  }
+}

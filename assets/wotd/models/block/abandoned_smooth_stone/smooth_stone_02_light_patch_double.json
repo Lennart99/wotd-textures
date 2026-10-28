@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "wotd:block/abandoned_smooth_stone/smooth_stone_02_light_patch",
+    "side": "wotd:block/abandoned_smooth_stone/smooth_stone_02_light_patch_slab_side"
+  }
+}

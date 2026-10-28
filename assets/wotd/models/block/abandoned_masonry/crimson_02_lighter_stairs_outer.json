@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "wotd:block/abandoned_masonry/crimson_02_lighter",
+    "top": "wotd:block/abandoned_masonry/crimson_02_lighter",
+    "side": "wotd:block/abandoned_masonry/crimson_02_lighter"
+  }
+}

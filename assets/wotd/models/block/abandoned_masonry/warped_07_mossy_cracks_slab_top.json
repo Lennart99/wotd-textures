@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "wotd:block/abandoned_masonry/warped_07_mossy_cracks",
+    "top": "wotd:block/abandoned_masonry/warped_07_mossy_cracks",
+    "side": "wotd:block/abandoned_masonry/warped_07_mossy_cracks"
+  }
+}

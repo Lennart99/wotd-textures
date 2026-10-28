@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "wotd:block/abandoned_masonry/crimson_14_moss_scattered",
+    "top": "wotd:block/abandoned_masonry/crimson_14_moss_scattered",
+    "side": "wotd:block/abandoned_masonry/crimson_14_moss_scattered"
+  }
+}

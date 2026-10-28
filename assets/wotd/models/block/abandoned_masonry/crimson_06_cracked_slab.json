@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "wotd:block/abandoned_masonry/crimson_06_cracked",
+    "top": "wotd:block/abandoned_masonry/crimson_06_cracked",
+    "side": "wotd:block/abandoned_masonry/crimson_06_cracked"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "wotd:block/abandoned_smooth_stone/smooth_stone_06_moss_specks",
+    "top": "wotd:block/abandoned_smooth_stone/smooth_stone_06_moss_specks",
+    "side": "wotd:block/abandoned_smooth_stone/smooth_stone_06_moss_specks_slab_side"
+  }
+}

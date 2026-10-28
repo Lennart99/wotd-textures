@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "wotd:block/abandoned_smooth_stone/smooth_stone_06_moss_specks",
+    "side": "wotd:block/abandoned_smooth_stone/smooth_stone_06_moss_specks_slab_side"
+  }
+}

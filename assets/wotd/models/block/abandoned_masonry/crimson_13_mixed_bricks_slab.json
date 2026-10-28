@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks",
+    "top": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks",
+    "side": "wotd:block/abandoned_masonry/crimson_13_mixed_bricks"
+  }
+}

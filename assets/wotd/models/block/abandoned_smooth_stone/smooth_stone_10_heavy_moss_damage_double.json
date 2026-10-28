@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "wotd:block/abandoned_smooth_stone/smooth_stone_10_heavy_moss_damage",
+    "side": "wotd:block/abandoned_smooth_stone/smooth_stone_10_heavy_moss_damage_slab_side"
+  }
+}
