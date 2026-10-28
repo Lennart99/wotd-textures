@@ -1,6 +1,13 @@
-﻿{
+{
   "pack": {
-    "pack_format": 81,
-    "description": "§4Official pack for the World of The Dead"
+    "description": "§4Official pack for the World of The Dead",
+    "min_format": [
+      97,
+      1
+    ],
+    "max_format": [
+      97,
+      1
+    ]
   }
 }
