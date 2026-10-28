@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "wotd:block/abandoned_masonry/warped_04_faded"
+  }
+}
