@@ -1,0 +1,1588 @@
+{
+  "variants": {
+    "facing=east,half=lower,hinge=left,open=false": [
+      {
+        "model": "wotd:block/acacia_random/v01_bottom_left",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v02_bottom_left",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v03_bottom_left",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v04_bottom_left",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v05_bottom_left",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v06_bottom_left",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v07_bottom_left",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v08_bottom_left",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v09_bottom_left",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v10_bottom_left",
+        "weight": 1
+      }
+    ],
+    "facing=east,half=lower,hinge=left,open=true": [
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v01_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v02_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v03_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v04_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v05_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v06_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v07_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v08_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v09_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v10_bottom_left_open",
+        "weight": 1
+      }
+    ],
+    "facing=east,half=lower,hinge=right,open=false": [
+      {
+        "model": "wotd:block/acacia_random/v01_bottom_right",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v02_bottom_right",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v03_bottom_right",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v04_bottom_right",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v05_bottom_right",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v06_bottom_right",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v07_bottom_right",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v08_bottom_right",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v09_bottom_right",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v10_bottom_right",
+        "weight": 1
+      }
+    ],
+    "facing=east,half=lower,hinge=right,open=true": [
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v01_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v02_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v03_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v04_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v05_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v06_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v07_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v08_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v09_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v10_bottom_right_open",
+        "weight": 1
+      }
+    ],
+    "facing=east,half=upper,hinge=left,open=false": [
+      {
+        "model": "wotd:block/acacia_random/v01_top_left",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v02_top_left",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v03_top_left",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v04_top_left",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v05_top_left",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v06_top_left",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v07_top_left",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v08_top_left",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v09_top_left",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v10_top_left",
+        "weight": 1
+      }
+    ],
+    "facing=east,half=upper,hinge=left,open=true": [
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v01_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v02_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v03_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v04_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v05_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v06_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v07_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v08_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v09_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v10_top_left_open",
+        "weight": 1
+      }
+    ],
+    "facing=east,half=upper,hinge=right,open=false": [
+      {
+        "model": "wotd:block/acacia_random/v01_top_right",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v02_top_right",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v03_top_right",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v04_top_right",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v05_top_right",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v06_top_right",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v07_top_right",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v08_top_right",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v09_top_right",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v10_top_right",
+        "weight": 1
+      }
+    ],
+    "facing=east,half=upper,hinge=right,open=true": [
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v01_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v02_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v03_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v04_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v05_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v06_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v07_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v08_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v09_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v10_top_right_open",
+        "weight": 1
+      }
+    ],
+    "facing=north,half=lower,hinge=left,open=false": [
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v01_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v02_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v03_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v04_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v05_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v06_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v07_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v08_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v09_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v10_bottom_left",
+        "weight": 1
+      }
+    ],
+    "facing=north,half=lower,hinge=left,open=true": [
+      {
+        "model": "wotd:block/acacia_random/v01_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v02_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v03_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v04_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v05_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v06_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v07_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v08_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v09_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v10_bottom_left_open",
+        "weight": 1
+      }
+    ],
+    "facing=north,half=lower,hinge=right,open=false": [
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v01_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v02_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v03_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v04_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v05_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v06_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v07_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v08_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v09_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v10_bottom_right",
+        "weight": 1
+      }
+    ],
+    "facing=north,half=lower,hinge=right,open=true": [
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v01_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v02_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v03_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v04_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v05_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v06_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v07_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v08_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v09_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v10_bottom_right_open",
+        "weight": 1
+      }
+    ],
+    "facing=north,half=upper,hinge=left,open=false": [
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v01_top_left",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v02_top_left",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v03_top_left",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v04_top_left",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v05_top_left",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v06_top_left",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v07_top_left",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v08_top_left",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v09_top_left",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v10_top_left",
+        "weight": 1
+      }
+    ],
+    "facing=north,half=upper,hinge=left,open=true": [
+      {
+        "model": "wotd:block/acacia_random/v01_top_left_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v02_top_left_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v03_top_left_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v04_top_left_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v05_top_left_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v06_top_left_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v07_top_left_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v08_top_left_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v09_top_left_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v10_top_left_open",
+        "weight": 1
+      }
+    ],
+    "facing=north,half=upper,hinge=right,open=false": [
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v01_top_right",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v02_top_right",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v03_top_right",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v04_top_right",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v05_top_right",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v06_top_right",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v07_top_right",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v08_top_right",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v09_top_right",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v10_top_right",
+        "weight": 1
+      }
+    ],
+    "facing=north,half=upper,hinge=right,open=true": [
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v01_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v02_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v03_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v04_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v05_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v06_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v07_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v08_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v09_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v10_top_right_open",
+        "weight": 1
+      }
+    ],
+    "facing=south,half=lower,hinge=left,open=false": [
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v01_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v02_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v03_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v04_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v05_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v06_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v07_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v08_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v09_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v10_bottom_left",
+        "weight": 1
+      }
+    ],
+    "facing=south,half=lower,hinge=left,open=true": [
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v01_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v02_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v03_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v04_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v05_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v06_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v07_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v08_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v09_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v10_bottom_left_open",
+        "weight": 1
+      }
+    ],
+    "facing=south,half=lower,hinge=right,open=false": [
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v01_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v02_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v03_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v04_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v05_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v06_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v07_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v08_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v09_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v10_bottom_right",
+        "weight": 1
+      }
+    ],
+    "facing=south,half=lower,hinge=right,open=true": [
+      {
+        "model": "wotd:block/acacia_random/v01_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v02_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v03_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v04_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v05_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v06_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v07_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v08_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v09_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v10_bottom_right_open",
+        "weight": 1
+      }
+    ],
+    "facing=south,half=upper,hinge=left,open=false": [
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v01_top_left",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v02_top_left",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v03_top_left",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v04_top_left",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v05_top_left",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v06_top_left",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v07_top_left",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v08_top_left",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v09_top_left",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v10_top_left",
+        "weight": 1
+      }
+    ],
+    "facing=south,half=upper,hinge=left,open=true": [
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v01_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v02_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v03_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v04_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v05_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v06_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v07_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v08_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v09_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v10_top_left_open",
+        "weight": 1
+      }
+    ],
+    "facing=south,half=upper,hinge=right,open=false": [
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v01_top_right",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v02_top_right",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v03_top_right",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v04_top_right",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v05_top_right",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v06_top_right",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v07_top_right",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v08_top_right",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v09_top_right",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v10_top_right",
+        "weight": 1
+      }
+    ],
+    "facing=south,half=upper,hinge=right,open=true": [
+      {
+        "model": "wotd:block/acacia_random/v01_top_right_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v02_top_right_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v03_top_right_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v04_top_right_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v05_top_right_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v06_top_right_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v07_top_right_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v08_top_right_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v09_top_right_open",
+        "weight": 1
+      },
+      {
+        "model": "wotd:block/acacia_random/v10_top_right_open",
+        "weight": 1
+      }
+    ],
+    "facing=west,half=lower,hinge=left,open=false": [
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v01_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v02_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v03_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v04_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v05_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v06_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v07_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v08_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v09_bottom_left",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v10_bottom_left",
+        "weight": 1
+      }
+    ],
+    "facing=west,half=lower,hinge=left,open=true": [
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v01_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v02_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v03_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v04_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v05_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v06_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v07_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v08_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v09_bottom_left_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v10_bottom_left_open",
+        "weight": 1
+      }
+    ],
+    "facing=west,half=lower,hinge=right,open=false": [
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v01_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v02_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v03_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v04_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v05_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v06_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v07_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v08_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v09_bottom_right",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v10_bottom_right",
+        "weight": 1
+      }
+    ],
+    "facing=west,half=lower,hinge=right,open=true": [
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v01_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v02_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v03_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v04_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v05_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v06_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v07_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v08_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v09_bottom_right_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v10_bottom_right_open",
+        "weight": 1
+      }
+    ],
+    "facing=west,half=upper,hinge=left,open=false": [
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v01_top_left",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v02_top_left",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v03_top_left",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v04_top_left",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v05_top_left",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v06_top_left",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v07_top_left",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v08_top_left",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v09_top_left",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v10_top_left",
+        "weight": 1
+      }
+    ],
+    "facing=west,half=upper,hinge=left,open=true": [
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v01_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v02_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v03_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v04_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v05_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v06_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v07_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v08_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v09_top_left_open",
+        "weight": 1
+      },
+      {
+        "y": 270,
+        "model": "wotd:block/acacia_random/v10_top_left_open",
+        "weight": 1
+      }
+    ],
+    "facing=west,half=upper,hinge=right,open=false": [
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v01_top_right",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v02_top_right",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v03_top_right",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v04_top_right",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v05_top_right",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v06_top_right",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v07_top_right",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v08_top_right",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v09_top_right",
+        "weight": 1
+      },
+      {
+        "y": 180,
+        "model": "wotd:block/acacia_random/v10_top_right",
+        "weight": 1
+      }
+    ],
+    "facing=west,half=upper,hinge=right,open=true": [
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v01_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v02_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v03_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v04_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v05_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v06_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v07_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v08_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v09_top_right_open",
+        "weight": 1
+      },
+      {
+        "y": 90,
+        "model": "wotd:block/acacia_random/v10_top_right_open",
+        "weight": 1
+      }
+    ]
+  }
+}

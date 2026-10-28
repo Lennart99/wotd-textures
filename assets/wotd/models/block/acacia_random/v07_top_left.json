@@ -1,0 +1,7 @@
+{
+  "parent": "wotd:block/acacia_random/template/door_top_left",
+  "textures": {
+    "bottom": "wotd:block/acacia_random/v07_silver_utility_bottom",
+    "top": "wotd:block/acacia_random/v07_silver_utility_top"
+  }
+}
